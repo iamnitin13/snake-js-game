@@ -69,3 +69,15 @@ button {
 .snake {
   background: #000;
 }
+
+#my-score > b {
+  color: #000;
+}
+
+#highest-score > b {
+  color: red;
+}
+
+.food-item {
+  transform: scale(1.05);
+}
